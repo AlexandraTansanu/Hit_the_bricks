@@ -1,8 +1,10 @@
 # The 'Hit the Bricks' game
 
-Hit_the_bricks is a game written entirely in Java as part of seminar during the first academic year.
+Hit_the_bricks is a reproduction of the old 'Brick Smash' for Windows 8 and 8.1. 
 
 **Difficulty level:** Beginner. 
+
+**Programming language:** Java.
 
 **How it works:** The bat is controlled by moving the mouse left or right. The player must catch the ball with the bat and destroy the wall of bricks. Sometimes, a brick must be hit multiple times in order to be destroyed. Some bricks may even release a snitch (a smaller yellow ball) after they have been destroyed. The game implements levels, lives and a session high scoring system. The player has 3 lives until death. A life is being lost when the ball goes behind the bat. The game resets when all lives are lost. The number of brick rows is direct proportional to that of the level and the maximum a player can reach is 8. Each destroyed brick adds to the score, with bricks that need to be hit multiple times having more points. If a snitch is caught by the bat, the score increases but so does the difficulty. If the score is higher than the established session high score as all lives are lost, it will be set as the new session high score.
 
