@@ -2,7 +2,7 @@
 
 Hit_the_bricks is a reproduction of the old 'Brick Smash' for Windows 8 and 8.1. 
 
-**Difficulty level:** Beginner. 
+**Difficulty level:** Intermediate. 
 
 **Programming language:** Java.
 
